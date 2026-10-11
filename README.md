@@ -3,6 +3,39 @@
 Its a ironing business that we are starting. 
 The automation im looking for is - 
 1. When customers scan the qr or send any message to our WhatsApp business number, we need to send an automated msg requesting few information like name , address, community/ house name, and total number of clothes.
+
+ABOUT US
+Neat Press is a doorstep clothes ironing and pressing service based at MC Halli, Chikka Tirupathi Road, Sarjapura. We are launching soon, starting with one trained ironing staff member and a professional vacuum ironing table with a steam boiler. We will add capacity as demand grows.
+SERVICES & PRICING (per piece)
+	•	Rs 10: T-shirts, shirts, formal trousers, kids' school uniforms, saree blouses
+	•	Rs 12: kurtas, salwars
+	•	Rs 14: jeans
+	•	A salwar set (kurta + salwar + dupatta) is charged as 2 pieces; the dupatta is free
+	•	Minimum order: 10 pieces
+	•	Sarees, curtains and bedsheets are not offered at launch
+HOW IT WORKS
+	•	Customers send "Hi" on WhatsApp to 95356 30579 and fill a short order form.
+	•	Each community has one fixed pickup day every week.
+	•	Pickup is between 9-10 AM; delivery is between 6-7 PM, Monday to Saturday, usually within 2 working days.
+	•	We collect from a common point at the community gate, count the clothes with the customer, and label each bundle with its Order ID.
+	•	Payment is by UPI only. No cash.
+TARGET CUSTOMERS
+Families and working professionals living in gated villa communities around Sarjapura who want regular, reliable ironing without visiting a shop. Most customers will be repeat, weekly users.
+COMMUNITIES (phased launch)
+	•	Weeks 1-2: Heritage County
+	•	Weeks 3-4: Skylite Vesta and Royal Tulip Villas
+	•	After that: Metropolis Fair Oaks, Urban Greens, Pelican Square, Heritage Firefly Fields, Icon Sanctuary, Heritage Urbanpod and Peninsula Solitaire
+Together these are roughly 2,000 homes. Nearby communities will be added later.
+EXPECTED VOLUME
+	•	Launch: around 5-15 orders per day (about 12 pieces per order)
+	•	Capacity with the current setup: about 150-200 garments per day
+OPERATIONS
+	•	The team is me plus one staff member. Daily updates will be done on a mobile phone using Google Sheets, so the system needs to be simple and phone-friendly.
+	•	Our number 95356 30579 should keep working on the WhatsApp Business app for customer chats.
+We'd prefer a lean, low-cost setup now that can grow with us, with Razorpay payment links and a fuller WhatsApp-based ordering flow as later phases.
+
+
+   
 [10/11, 9:57 PM] +91 88677 98233: Below is the workflow we need, followed by a few specific requirements.
 
 1. CUSTOMER ORDER REGISTRATION
